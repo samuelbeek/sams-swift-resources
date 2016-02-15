@@ -23,3 +23,4 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 
 ### Random arcitlces/videos I loved:
 * [Undirectional Data Flow in Swift](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
+* [How to transition from Objective-C to Swift without rewriting your whole code base](http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_74)
