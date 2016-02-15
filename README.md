@@ -22,5 +22,10 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 * [Cocoa Controls](https://www.cocoacontrols.com) (note: quality of these resources is not always very high).
 
 ### Random arcitlces/videos I loved:
+
+#### Videos
 * [Undirectional Data Flow in Swift](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
+ 
+#### Articles 
 * [How to transition from Objective-C to Swift without rewriting your whole code base](http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_74)
+* [Protocole oriented state layout](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844#.kxr4fn8ga)
