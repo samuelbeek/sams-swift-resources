@@ -18,9 +18,9 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 
 
 ### Linting + Styleguides: 
-[Swift best practices](https://github.com/schwa/Swift-Community-Best-Practices)
-[Swift lint](https://github.com/realm/SwiftLint)
-[API design guides](https://swift.org/documentation/api-design-guidelines/)
+* [Swift best practices](https://github.com/schwa/Swift-Community-Best-Practices)
+* [Swift lint](https://github.com/realm/SwiftLint)
+* [API design guides](https://swift.org/documentation/api-design-guidelines/)
 
 ### Repositories 
 
