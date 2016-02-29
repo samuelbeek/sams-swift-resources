@@ -36,4 +36,5 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 * [Being Lazy](http://alisoftware.github.io/swift/2016/02/28/being-lazy/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=web&utm_source=This_Week_in_Swift_76) (this is an eye-opener about lazy initialization). 
 * [How to transition from Objective-C to Swift without rewriting your whole code base](http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_74)
 * [Protocol oriented state layout](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844#.kxr4fn8ga)
+* [Swift Debugging](https://www.natashatherobot.com/swift-debugging/)
 * [Weak, Strong, Unowned, Oh My!](http://krakendev.io/blog/weak-and-unowned-references-in-swift) (about referencing in blocks)
