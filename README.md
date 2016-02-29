@@ -16,6 +16,12 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 ### Blogs 
 * [Little bites of cocoa](https://littlebitesofcocoa.com): List of small tricks, updated almost everyday. 
 
+
+### Linting + Styleguides: 
+[Swift best practices](https://github.com/schwa/Swift-Community-Best-Practices)
+[Swift lint](https://github.com/realm/SwiftLint)
+[API design guides](https://swift.org/documentation/api-design-guidelines/)
+
 ### Repositories 
 
 * [Github Trending Swift](https://github.com/trending?l=swift)
