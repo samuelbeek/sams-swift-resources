@@ -38,3 +38,4 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 * [Protocol oriented state layout](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844#.kxr4fn8ga)
 * [Swift Debugging](https://www.natashatherobot.com/swift-debugging/)
 * [Weak, Strong, Unowned, Oh My!](http://krakendev.io/blog/weak-and-unowned-references-in-swift) (about referencing in blocks)
+* [Using Swift in a large project](http://www.wooji-juice.com/blog/stupid-swift-tricks-4.html) 
