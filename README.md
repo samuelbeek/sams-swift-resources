@@ -26,7 +26,8 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 
 * [Github Trending Swift](https://github.com/trending?l=swift)
 * [Cocoa Controls](https://www.cocoacontrols.com) (note: quality of these resources is not always very high).
-* 
+
+
 ### Tools 
 * [NSDateFormatter.com](http://nsdateformatter.com)
 
