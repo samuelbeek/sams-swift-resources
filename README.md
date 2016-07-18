@@ -43,3 +43,4 @@ This is an attempt to share more knowledge. An organized list of all the stuff t
 * [Swift Debugging](https://www.natashatherobot.com/swift-debugging/)
 * [Weak, Strong, Unowned, Oh My!](http://krakendev.io/blog/weak-and-unowned-references-in-swift) (about referencing in blocks)
 * [Using Swift in a large project](http://www.wooji-juice.com/blog/stupid-swift-tricks-4.html) 
+* [Error handling in Swift](https://www.raywenderlich.com/130197/magical-error-handling-swift?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_95)
