@@ -62,3 +62,4 @@ I'm a big fan of Gists, they're underated. It's a great way to share stuff that'
 * [Error handling in Swift](https://www.raywenderlich.com/130197/magical-error-handling-swift?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_95)
 * [Enum as configuration: The Anti Pattern](http://www.jessesquires.com/enums-as-configs/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_98) 
 * [Cleaning up single if-case use](http://ericasadun.com/2016/08/05/cleaning-up-single-if-case-use/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_98)
+* [Using Sets](https://medium.cobeisfresh.com/thinking-from-scratch-with-sets-in-swift-1b3050a76e45#.s530keue8)
